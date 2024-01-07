@@ -1,5 +1,6 @@
-# ASOC
-Automated Simulations On Cluster
+# ASOC (Automated Simulations On Cluster)
+
+Written by Guillaume Herment for the publication:
 
 Effect of capillary fluid flow on single cancer cell cycle dynamics, motility, volume and morphology (2023), Lab on a chip, 92-105.
 
